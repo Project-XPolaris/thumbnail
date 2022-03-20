@@ -1,0 +1,23 @@
+addr: ':8020'
+application: "Thumbnail Service"
+instance: "main"
+service:
+  name: "tns"
+  display: "Thumbnail Service"
+youplus:
+  auth: false
+  enablepath: false
+  enablerpc: false
+  url: 'http://localhost:8999'
+  rpc: 'localhost:50055'
+  entity:
+    enable: false
+    name: "thumbnail-service"
+    version: 1
+log:
+  youlog:
+    application: "Thumbnail Service"
+    instance: "main"
+    addr: "localhost:50052"
+    retry: 3000
+    remote: false
