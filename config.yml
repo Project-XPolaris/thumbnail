@@ -17,7 +17,12 @@ youplus:
 log:
   youlog:
     application: "Thumbnail Service"
-    instance: "main"
+    instance: "thumbnail"
     addr: "localhost:50052"
     retry: 3000
     remote: false
+register:
+  enable: false
+  endpoints:
+    - localhost:12379
+  regpath: ./reg.yml

@@ -1,7 +1,7 @@
 ./.idea
 ./database.db
-./main
+output/thumbnail
 docker-compose.yml
 reg.yml
-main
+output/thumbnail
 /.idea
