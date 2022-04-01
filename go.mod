@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/allentom/haruka v0.0.0-20211105095347-07d9bf2b815d
-	github.com/allentom/harukap v0.0.0-20220325073951-daf500fe15a0
+	github.com/allentom/harukap v0.0.0-20220331084741-c3606fd941a2
 	github.com/gabriel-vasile/mimetype v1.4.0
 	github.com/h2non/bimg v1.1.7
 	github.com/rs/cors v1.8.2
@@ -32,7 +32,7 @@ require (
 	github.com/mitchellh/mapstructure v1.4.3 // indirect
 	github.com/pelletier/go-toml v1.9.4 // indirect
 	github.com/processout/grpc-go-pool v1.2.1 // indirect
-	github.com/project-xpolaris/youplustoolkit v0.0.0-20220312090952-4b24318687f4 // indirect
+	github.com/project-xpolaris/youplustoolkit v0.0.0-20220331083706-51df568cbf83 // indirect
 	github.com/rs/xid v1.4.0 // indirect
 	github.com/russross/blackfriday/v2 v2.0.1 // indirect
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
@@ -50,9 +50,9 @@ require (
 	go.uber.org/multierr v1.6.0 // indirect
 	go.uber.org/zap v1.17.0 // indirect
 	golang.org/x/net v0.0.0-20220325170049-de3da57026de // indirect
-	golang.org/x/sys v0.0.0-20220325203850-36772127a21f // indirect
+	golang.org/x/sys v0.0.0-20220330033206-e17cdc41300f // indirect
 	golang.org/x/text v0.3.7 // indirect
-	google.golang.org/genproto v0.0.0-20220324131243-acbaeb5b85eb // indirect
+	google.golang.org/genproto v0.0.0-20220329172620-7be39ac1afc7 // indirect
 	google.golang.org/grpc v1.45.0 // indirect
 	google.golang.org/protobuf v1.28.0 // indirect
 	gopkg.in/ini.v1 v1.66.4 // indirect
