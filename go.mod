@@ -6,7 +6,6 @@ require (
 	github.com/allentom/haruka v0.0.0-20211105095347-07d9bf2b815d
 	github.com/allentom/harukap v0.0.0-20220331084741-c3606fd941a2
 	github.com/gabriel-vasile/mimetype v1.4.0
-	github.com/h2non/bimg v1.1.7
 	github.com/rs/cors v1.8.2
 	github.com/sirupsen/logrus v1.8.1
 	gorm.io/gorm v1.22.0
@@ -16,6 +15,7 @@ require (
 	github.com/coreos/go-semver v0.3.0 // indirect
 	github.com/coreos/go-systemd/v22 v22.3.2 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
+	github.com/davidbyttow/govips/v2 v2.11.0 // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/go-resty/resty/v2 v2.7.0 // indirect
@@ -49,7 +49,8 @@ require (
 	go.uber.org/atomic v1.7.0 // indirect
 	go.uber.org/multierr v1.6.0 // indirect
 	go.uber.org/zap v1.17.0 // indirect
-	golang.org/x/net v0.0.0-20220325170049-de3da57026de // indirect
+	golang.org/x/image v0.0.0-20220321031419-a8550c1d254a // indirect
+	golang.org/x/net v0.0.0-20220403103023-749bd193bc2b // indirect
 	golang.org/x/sys v0.0.0-20220330033206-e17cdc41300f // indirect
 	golang.org/x/text v0.3.7 // indirect
 	google.golang.org/genproto v0.0.0-20220329172620-7be39ac1afc7 // indirect
